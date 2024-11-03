@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SwaroopAtreya
 - 👀 I’m interested in AI/ML, Software Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me swaroopatreya5@gmail.com
+  - 📫 How to reach me swaroopatreya5@gmail.com
   
 
 <!---
